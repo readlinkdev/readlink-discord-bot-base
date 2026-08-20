@@ -8,8 +8,8 @@ export default {
       status: "online",
       activities: [
         {
-          name: "Coding with discord.js",
-          type: ActivityType.Playing,
+          name: "https://github.com/readlinkdev",
+          type: ActivityType.Custom,
         },
       ],
     });
